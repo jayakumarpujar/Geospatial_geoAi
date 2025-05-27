@@ -14,19 +14,19 @@ Vector-to-raster and raster-to-vector conversion utilities optimized for AI work
 Data augmentation techniques specific to geospatial data
 Support for integrating Overture Maps data and other open datasets for training and validation
 
-#Image Segmentation¶
+# Image Segmentation¶
 Integration with Meta's Segment Anything Model (SAM) for automatic feature extraction
 Specialized segmentation algorithms optimized for satellite and aerial imagery
 Streamlined workflows for segmenting buildings, roads, vegetation, and water bodies
 Export capabilities to standard geospatial formats (GeoJSON, Shapefile, GeoPackage, GeoParquet)
 
-#Image Classification¶
+# Image Classification¶
 Pre-trained models for land cover and land use classification
 Transfer learning utilities for fine-tuning models with your own data
 Multi-temporal classification support for change detection
 Accuracy assessment and validation tools
 
-#Additional Capabilities¶
+# Additional Capabilities¶
 Terrain analysis with AI-enhanced feature extraction
 Point cloud classification and segmentation
 Object detection in aerial and satellite imagery
